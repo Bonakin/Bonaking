@@ -1,0 +1,37 @@
+body {
+     background-color: aquamarine;
+}
+.div1
+
+.img2:hover{
+   
+     transform: translateX(5px);
+     transition: 1s;
+}
+.img2{
+     position: relative;
+     left: 750px;
+}
+.img1:hover{
+     transform: translateX(5px);
+     transition: 1s;
+}
+.question {
+     
+}
+span{
+     margin: 5px;
+     padding: 2px;
+     background-color: beige;
+     color: blue;
+     display: inline-block;
+}
+ span:hover{
+     color: brown;
+     background-color: cadetblue;
+}
+button{
+     background-color: blue;
+     border-radius: 15px;
+     box-shadow: 2px 2px 2px greenyellow;
+}
